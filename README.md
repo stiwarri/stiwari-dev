@@ -12,12 +12,16 @@
   <img align="left" alt="Shubham's Linkedin" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
+<br/>
+
 #### I'm a Software Engineer and a passionate Web Developer!
 - 🔭 I’m currently working on [Snapzee](https://github.com/stiwari-dev/snapzee) (a Progressive Web App)
 - 🌱 I’m currently learning Next.js and PWA
 - 💬 Ask me about JavaScript and Web Development 
 - 📫 How to reach me: [Gmail](shubham.tiwari1097@gmail.com)
 - 🥅 2020 Goals: Learn and Contribute
+
+<br/>
 
 #### Technologies I work with:
 <img align="left" alt="html5" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
@@ -33,7 +37,8 @@
 <img align="left" alt="nextjs" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/next-dot-js.svg" />
 <img align="left" alt="github" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 <img align="left" alt="visualstudiocode" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />
+
 <br/>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stiwari-dev&theme=onedark&hide_langs_below=0&layout=compact" />
-</p>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stiwari-dev&theme=onedark&hide_langs_below=0&layout=compact" />
+
