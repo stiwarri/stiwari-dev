@@ -24,6 +24,7 @@
 ## Languages and Tools:
 <img align="left" alt="html5" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
 <img align="left" alt="css3" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />
+<img align="left" alt="sass" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sass.svg" />
 <img align="left" alt="javascript" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
 <img align="left" alt="typescript" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg" />
 <img align="left" alt="angular" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angular.svg" />
