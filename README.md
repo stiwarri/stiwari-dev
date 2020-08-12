@@ -16,8 +16,8 @@
 
  #### I'm a Software Engineer and a passionate Web Developer!
 - 🔭 I’m currently working on [Snapzee](https://github.com/stiwari-dev/snapzee) (a Progressive Web App)
-- 🌱 I’m currently learning Next.js, PWA
-- 💬 Ask me about JavaScript, MEAN and MERN Stack Web Development 
+- 🌱 I’m currently learning Next.js and PWA
+- 💬 Ask me about JavaScript and Web Development 
 - 📫 How to reach me: [Gmail](shubham.tiwari1097@gmail.com)
 - 🥅 2020 Goals: Learn and Contribute
 
@@ -32,5 +32,7 @@
   <img align="left" alt="nodejs" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />
   <img align="left" alt="mongodb" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" />
   <img align="left" alt="graphql" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/graphql.svg" />
+  <img align="left" alt="nextjs" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/next-dot-js.svg" />
   <img align="left" alt="github" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="visualstudiocode" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />
 </p>
