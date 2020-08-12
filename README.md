@@ -21,6 +21,8 @@
 - 📫 How to reach me: [Gmail](shubham.tiwari1097@gmail.com)
 - 🥅 2020 Goals: Learn and Contribute
 
+<br />
+
 <p align="center">
   <img align="left" alt="html5" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
   <img align="left" alt="css3" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />
