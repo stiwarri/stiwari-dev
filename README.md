@@ -14,7 +14,8 @@
 
 <br/>
 
-## I'm a Software Engineer and a passionate Web Developer!
+## About Me:
+- 💻 I'm a Software Engineer and a passionate Web Developer.
 - 🔭 I’m currently working on [Snapzee](https://github.com/stiwari-dev/snapzee) (a Progressive Web App)
 - 🌱 I’m currently learning Next.js and PWA
 - 💬 Ask me about JavaScript and Web Development 
